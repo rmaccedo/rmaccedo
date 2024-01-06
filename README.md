@@ -15,7 +15,7 @@ Front-End:
 
 Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
 
 
 Ferramentas e Plataformas:
