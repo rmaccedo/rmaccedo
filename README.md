@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2 align='center'>Olá, me chamo Ricardo Macedo Filho</h2>
 
-<!--
-**rmaccedo/rmaccedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>⭐ Quanto a mim</h3>
 
-Here are some ideas to get you started:
+<p>Sou um desenvolvedor Full stack no ensino médio, equilibrando estudos acadêmicos com projetos práticos para aprimorar minhas habilidades em tecnologias de ponta. Estou constantemente aprendendo e aplicando novas linguagens e ferramentas de desenvolvimento e me tornar um especialista reconhecido no campo de desenvolvimento de software.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💡 Sou comunicativo e ávido por novidades em tecnologia, visando constante aprimoramento e inovação.<br>
+🌱 Atualmente estou estudando e me aprimorando em JavaScript, Typescript e Vue.js.</p>
+
+<h3>🚀 Tecnologias</h3>
+
+Front-End:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind)](https://skillicons.dev)
+
+Back-End:
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,)](https://skillicons.dev)
+
+
+Ferramentas e Plataformas:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
