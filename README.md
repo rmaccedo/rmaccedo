@@ -5,7 +5,7 @@
 <p>Sou um desenvolvedor Full stack no ensino médio, equilibrando estudos acadêmicos com projetos práticos para aprimorar minhas habilidades em tecnologias de ponta. Estou constantemente aprendendo e aplicando novas linguagens e ferramentas de desenvolvimento e me tornar um especialista reconhecido no campo de desenvolvimento de software.</p>
 
 <p>💡 Sou comunicativo e ávido por novidades em tecnologia, visando constante aprimoramento e inovação.<br>
-🌱 Atualmente estou estudando e me aprimorando em JavaScript, Typescript e Vue.js.</p>
+🌱 Atualmente estou estudando e me aprimorando em JavaScript, Typescript, Vue.js node e express.</p>
 
 <h3>🚀 Tecnologias</h3>
 
