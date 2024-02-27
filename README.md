@@ -20,4 +20,4 @@ Back-End:
 
 Ferramentas e Plataformas:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,intelliJ,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
