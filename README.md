@@ -11,11 +11,11 @@
 
 Front-End:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue.js)](https://skillicons.dev)
 
 Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 Ferramentas e Plataformas:
