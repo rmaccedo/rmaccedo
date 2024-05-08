@@ -1,6 +1,6 @@
 <h2 align='center'>Olá, me chamo Ricardo Macedo Filho</h2>
 
-<h3>⭐ Quanto a mim</h3>
+<h3>Quanto a mim</h3>
 
 Front-End:
 
