@@ -4,7 +4,7 @@
 
 Front-End:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 Back-End:
 
